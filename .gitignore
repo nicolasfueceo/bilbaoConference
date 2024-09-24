@@ -1,3 +1,4 @@
 creds.json
 .venv/
 .env
+.idea
